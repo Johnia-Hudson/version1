@@ -8,6 +8,7 @@ Our website is not content-heavy as our client's wish was for a simple, clean we
 
 We chose a font that we thought looked most pleasing. We kept the background white and simple because of our client's wishes. We used Bootstrap for our Nav Bar and are pleased with how it turned out. A form was used on the Contact page to show the business hours. Getting our page to be responsive took us awhile. We think we finally have media queries figured out.
 
-Our team has had different perspectives on a lot of things, but in the end, we always came up with a solution. At first we didn't know each other. Now we have become close through teamwork and are good friends.
+Our team has had different perspectives on a lot of things, but in the end, we always came up with a solution. At first we didn't know each other. Now we have become close through teamwork and are good friends.  We hope you enjoy viewing our website.
 
-The Trifocals: Johnia Hudson, Jadin Springfield, Amaya Williamson JCM Early College High
+The Trifocals: Johnia Hudson, Jadin Springfield, Amaya Williamson 
+JCM Early College High
